@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GamersDen2
-- 👀 I’m interested in programing
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning new things
 - 😄 Pronouns: He/His/Him
 
 <!---
