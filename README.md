@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GamersDen2
+- 👋 Hi, I’m Muddassir Noor
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning new things
 - 😄 Pronouns: He/His/Him
